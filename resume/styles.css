@@ -1,1 +1,92 @@
-i 
+body {
+    font-family: monospace;
+    font-size: large;
+    padding: 20px;
+    background-image: url(background.jpg);
+    height: 100%;
+}
+
+/* MAIN BOX */
+#content {
+    width: 80%;
+    height: 1000px;
+    max-width: 700px;
+    padding: auto;
+    background-color: #d1f3ff71;
+    margin-left: auto;
+    margin-right: auto;
+    height: 90%;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 80px;
+} #name {
+    margin-top: 0;
+    margin-bottom: 0px;
+    color: #000485;
+    font-size: 40px;
+} #position {
+    margin-top: 0;
+}
+
+hr {
+    height: 1px;
+    background-color: black;
+    border-color: black;
+} section h2 {
+    background: linear-gradient(90deg, white, #ffffff00, white);
+    margin: 0;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.5s;
+} section h2:hover {
+    background: linear-gradient(black, black, black);
+    color: white;
+
+}
+
+/* INFORMATION SECTION */
+.info p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+} .var {
+    text-align: left;
+    width: 50%;
+} .val {
+    text-align: right;
+    width: 50%;
+}
+
+/* SKILLS SECTION */
+#end {
+    display: flex;
+    text-align: center;
+} #frontend {
+    width: 33%;
+} #backend {
+    width: 33%;
+} #others {
+    width: 33%;
+} .cont-head {
+    background-color: #3700ff60;
+    border-radius: 20px 20px 0 0;
+    margin-left: 5px;
+    margin-right: 5px;
+} .cont-items {
+    background-color: #ffffff83;
+    height: 120px;
+    border-radius: 0 0 20px 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 5px;
+    margin-top: -19px;
+} .cont-items p {
+    margin: 8px;
+}
+
+h1,h2,p {
+    text-align: center;
+}
