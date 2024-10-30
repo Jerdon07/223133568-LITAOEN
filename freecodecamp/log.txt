@@ -1,0 +1,53 @@
+commit 3a3190dcea12215299cfa7109ae773c4719fc842
+Author: Jerdon07 <jdlitaoen@gmail.com>
+Date:   Tue Oct 29 21:56:57 2024 +0800
+
+    Finished the Last Project to Complete
+
+commit d05d5eb07e8024c4b22a7e776c94eaa362207e07
+Author: Jerdon07 <jdlitaoen@gmail.com>
+Date:   Tue Oct 29 13:41:42 2024 +0800
+
+    Updated my Codes
+
+commit 8d901abea2c7832a04c64edface6e6aa42838295
+Author: Jerdon07 <jdlitaoen@gmail.com>
+Date:   Tue Oct 29 12:13:09 2024 +0800
+
+    Finished the Project
+
+commit 170061acd79ea757bc90974e673e17d727ac4c39
+Author: Jerdon07 <jdlitaoen@gmail.com>
+Date:   Mon Oct 28 22:16:18 2024 +0800
+
+    STEP 76 Finished
+
+commit 9154e48a8ea65cb0bc2bec4ce1d406ff658c43dc
+Author: Jerdon Litaoen <jdlitaoen@gmail.com>
+Date:   Mon Oct 28 15:16:46 2024 +0800
+
+    Updated the Codes
+
+commit 37ea536eadbed1571f05dce0b2b64e462e886911
+Author: Jerdon Litaoen <jdlitaoen@gmail.com>
+Date:   Mon Oct 28 14:46:47 2024 +0800
+
+    Added the Necessary Files for the Project
+
+commit 0babfbc1d8e4349ae90c8fbe114b339a5bbb3ede
+Author: Jerdon Litaoen <jdlitaoen@gmail.com>
+Date:   Mon Oct 28 14:42:43 2024 +0800
+
+    Added the necessary Files for the Project
+
+commit e341ea3fff1e6de4a2d513cec2079daa3b2c6d91
+Author: Jerdon Litaoen <jdlitaoen@gmail.com>
+Date:   Mon Oct 28 14:38:38 2024 +0800
+
+    Added the Necessary File for the Project
+
+commit fa7a6668c486da363fb32eade5cab3505f4a102a
+Author: Jerdon Litaoen <jdlitaoen@gmail.com>
+Date:   Mon Oct 28 14:33:35 2024 +0800
+
+    moved the Registration Website to it's respective Folder
