@@ -53,6 +53,13 @@ header h1 {
     justify-content: flex-end;
 } .indent {
     margin-left: 1em;
-} .daily-value p {
+} .daily-value p:not(.no-divider) {
     border-bottom: 1px solid #888989;
+} .double-indent {
+    margin-left: 2em;
+} .note {
+    font-size: 0.6rem;
+    padding: 0 8px;
+    margin: 5px 0;
+    text-indent: -8px;
 }
