@@ -25,20 +25,40 @@
         <section role="region" aria-labelledby="student-info">
           <h2 id="student-info">Student Information</h2>
           <div class="info">
-            <label></label>
-            <input>
+            <label for="name">Your Name:</label>
+            <input id="name" type="text" name="name">
           </div>
           <div class="info">
-            <label></label>
-            <input>
+            <label for="email">Email Address:</label>
+            <input id="email" type="email" name="email">
           </div>
           <div class="info">
-            <label></label>
-            <input>
+            <label for="birth">Birth Date</label>
+            <input id="birth" type="date" name="birth">
           </div>
         </section>
         <section role="region" aria-labelledby="html-questions">
           <h2 id="html-questions">HTML Questions</h2>
+          <div class="question-block">
+            <h3><span class="sr-only">Question</span>1</h3>
+            <fieldset class="question" name="1">
+              <legend>The Structure of the Website</legend>
+              <ul class="answers-list">
+                <li></li>
+                <li></li>
+              </ul>
+            </fieldset>
+          </div>
+          <div class="question-block">
+            <h3><span class="sr-only">Question</span>2</h3>
+            <fieldset class="question" name="2">
+              <legend>A Programming Language</legend>
+              <ul class="answers-list">
+                <li></li>
+                <li></li>
+              </ul>
+            </fieldset>
+          </div>
         </section>
         <section role="region" aria-labelledby="css-questions">
           <h2 id="css-questions">CSS Questions</h2>
